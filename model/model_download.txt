@@ -1,0 +1,18 @@
+Model file is not included in this repository due to GitHub file size limitations.
+
+The trained model (.pkl) can be recreated by running the Jupyter Notebook provided in this repository.
+
+Steps:
+1. Open the notebook.
+2. Run all cells.
+3. Train the model.
+4. A new churn_model.pkl file will be generated automatically.
+
+This repository contains:
+- Dataset
+- Jupyter Notebook
+- Streamlit Application
+- Project Documentation
+- README
+
+The model file has been excluded to keep the repository lightweight and GitHub-friendly.
